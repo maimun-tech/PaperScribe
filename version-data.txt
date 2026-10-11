@@ -1,7 +1,7 @@
 {
   "latest_version_code": 2,
   "latest_version_name": "1.1.0",
-  "download_url": "https://example.com/downloads/paperscribe-v1.1.0.apk",
-  "release_notes": "Added Epson wireless WiFi printing & direct USB OTG support.",
+  "download_url": "https://your-server.com/downloads/paperscribe-v1.1.0.apk",
+  "release_notes": "• Added direct USB printing\n• Added Epson iPrint wireless printing\n• Performance improvements",
   "force_update": false
 }
